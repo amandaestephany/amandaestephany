@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Fiction Website 
+- 🔭 I’m currently working on a Project of a Front-End Developer course
 - 🌱 I’m currently learning more of HTML, CSS and Javascript
 - 📫 How to reach me: <a href="https://linkedin,com/in/amandaestephany"> my Linkedin!
 - 😄 Pronouns: She/Her
