@@ -1,66 +1,68 @@
-<!-- Banner opcional: você pode trocar a imagem -->
+<!-- Banner dark com azul -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=180&section=header&text=Amanda%20Estephany&fontSize=40&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A84FF,100:1E90FF&height=180&section=header&text=Amanda%20Estephany&fontSize=40&fontColor=ffffff&fontAlignY=35" />
 </p>
 
-<h2 align="center">👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas</h2>
+<h2 align="center" style="color:#fff;">👩‍💻 Estudante de Análise e Desenvolvimento de Sistemas</h2>
 
-<p align="center">
-Sou apaixonada por tecnologia, desafios e pela construção de soluções que fazem a diferença.  
-Busco sempre evoluir, aprender e transformar ideias em código. 🚀
+<p align="center" style="color:#ccc;">
+Apaixonada por tecnologia, desafios e pelo desenvolvimento de soluções que realmente fazem a diferença.  
+Sempre explorando, aprendendo e construindo meu caminho na área de tecnologia. 🚀
 </p>
 
 ---
 
-## ✨ Sobre mim
+## 🔷 Sobre mim
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — *Faculdade Senac*  
-- 💡 Explorando o universo da programação e do desenvolvimento de software  
-- 🔥 Determinada a crescer na área de tecnologia  
-- 🌱 Sempre aprendendo algo novo
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas — Faculdade Senac**  
+- 💡 Interessada em desenvolvimento de software e boas práticas  
+- 🔥 Motivada a evoluir constantemente na área  
+- 🌙 Amante do tema dark (claro 😎)
 
 ---
 
-## 🚀 Tecnologias e Habilidades
+## 🔷 Tecnologias e Habilidades
 
 ### 🧠 Linguagens e Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0A84FF?style=for-the-badge&logo=python&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Java-1E90FF?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-0A84FF?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-1E90FF?style=for-the-badge&logo=angular&logoColor=white"/>
 </p>
 
 ---
 
-## 🎯 Objetivos
+## 🔷 Objetivos
 
-✨ Desenvolver apps e ferramentas que gerem impacto real  
-✨ Participar de projetos desafiadores  
-✨ Evoluir como desenvolvedora full-stack  
+✨ Construir projetos reais e impactantes  
+✨ Desenvolver habilidades como futura desenvolvedora full-stack  
+✨ Criar soluções eficientes e bem estruturadas  
 
 ---
 
-## 📊 Estatísticas (opcional – funciona se ativar no GitHub)
+## 🔷 Estatísticas (opcional)
+
+*(Ative no GitHub para funcionar)*
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&border_color=0A84FF"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&border_color=0A84FF"/>
 </p>
 
 ---
 
-## 📬 Onde me encontrar
+## 🔷 Onde me encontrar
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amanda-estephany-s">
-    <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Estephany-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Amanda%20Estephany-0A84FF?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:0A84FF&height=120&section=footer"/>
 </p>
