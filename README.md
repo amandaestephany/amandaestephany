@@ -16,8 +16,8 @@ Sempre explorando, aprendendo e construindo meu caminho na área de tecnologia. 
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas — Faculdade Senac**  
 - 💡 Interessada em desenvolvimento de software e boas práticas  
-- 🔥 Motivada a evoluir constantemente na área  
-- 🌙 Amante do tema dark (claro 😎)
+- 🔥 Motivada a evoluir constantemente na área
+- 🌱 Sempre aprendendo algo novo
 
 ---
 
@@ -37,7 +37,7 @@ Sempre explorando, aprendendo e construindo meu caminho na área de tecnologia. 
 ## 🔷 Objetivos
 
 ✨ Construir projetos reais e impactantes  
-✨ Desenvolver habilidades como futura desenvolvedora full-stack  
+✨ Desenvolver habilidades como futura desenvolvedora back-end 
 ✨ Criar soluções eficientes e bem estruturadas  
 
 ---
