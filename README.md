@@ -42,15 +42,6 @@ Sempre explorando, aprendendo e construindo meu caminho na área de tecnologia. 
 
 ---
 
-## 🔷 Estatísticas (opcional)
-
-*(Ative no GitHub para funcionar)*
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&border_color=0A84FF"/>  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight&border_color=0A84FF"/>
-</p>
-
 ---
 
 ## 🔷 Onde me encontrar
