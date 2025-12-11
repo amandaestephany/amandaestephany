@@ -37,7 +37,7 @@ Sempre explorando, aprendendo e construindo meu caminho na área de tecnologia. 
 ## 🔷 Objetivos
 
 ✨ Construir projetos reais e impactantes  
-✨ Desenvolver habilidades como futura desenvolvedora back-end 
+✨ Desenvolver habilidades como futura desenvolvedora back-end
 ✨ Criar soluções eficientes e bem estruturadas  
 
 ---
